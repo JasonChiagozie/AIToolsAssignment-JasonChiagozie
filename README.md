@@ -20,7 +20,7 @@ The project demonstrates understanding and practical use of modern AI frameworks
 |------|--------------|--------------|
 | **Part 1** | Theoretical Understanding of AI tools | [Theoretical_Answers.md](./Theoretical_Answers.md) |
 | **Part 2 – Task 1** | Classical ML using Scikit-learn (Iris Classifier) | [Iris Classifier Notebook](./Iris_Classifier_JasonChiagozie.ipynb) |
-| **Part 2 – Task 2** | Deep Learning using TensorFlow (MNIST CNN) | [MNIST CNN Notebook](./MNIST%20CNN.ipynb) |
+| **Part 2 – Task 2** | Deep Learning using TensorFlow (MNIST CNN) | [MNIST CNN Notebook](./MNIST_CNN_JasonChiagozie.ipynb) |
 | **Part 2 – Task 3** | NLP using spaCy (Entity & Sentiment Extraction) | [NLP Task](./spaCy_NLP_Task.md) |
 | **Part 3** | Ethical Analysis and Reflection | [Ethical_Reflection.md](./Ethical_Reflection.md) |
 
