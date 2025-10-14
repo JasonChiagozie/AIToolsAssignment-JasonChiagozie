@@ -1,12 +1,79 @@
-# AI Tools Assignment – Jason Chiagozie
+# 🧠 AI Tools Assignment – *Mastering the AI Toolkit*
 
-This repository contains all tasks for the "Mastering the AI Toolkit" assignment.
+**Author:** Jason Chiagozie  
+**Course:** AI Tools and Applications  
+**Institution:** [Power Learn Project Academy]  
+**Date:** October 2025  
 
-## Structure
-- `/src` – Python code files and notebooks
-- `requirements.txt` – Python dependencies
-- `README.md` – Project overview
-- `report/` – PDF report and screenshots (later)
+---
 
-## Tools
-TensorFlow · PyTorch · Scikit-learn · spaCy
+## 📘 Project Overview
+
+This repository contains my complete submission for the **AI Tools Assignment** on the theme *“Mastering the AI Toolkit.”*  
+The project demonstrates understanding and practical use of modern AI frameworks — **TensorFlow**, **PyTorch**, **Scikit-learn**, and **spaCy** — across theory, implementation, and ethics.
+
+---
+
+## 🧩 Assignment Structure
+
+| Part | Description | Deliverable |
+|------|--------------|--------------|
+| **Part 1** | Theoretical Understanding of AI tools | [Theoretical_Answers.md](./Theoretical_Answers.md) |
+| **Part 2 – Task 1** | Classical ML using Scikit-learn (Iris Classifier) | [Iris Classifier Notebook](./Iris%20Classifier.ipynb) |
+| **Part 2 – Task 2** | Deep Learning using TensorFlow (MNIST CNN) | [MNIST CNN Notebook](./MNIST%20CNN.ipynb) |
+| **Part 2 – Task 3** | NLP using spaCy (Entity & Sentiment Extraction) | [NLP Task](./spaCy_NLP_Task.md) |
+| **Part 3** | Ethical Analysis and Reflection | [Ethical_Reflection.md](./Ethical_Reflection.md) |
+
+---
+
+## 🧠 Tools & Frameworks Used
+
+- **TensorFlow** – for deep learning and CNN model building.  
+- **Scikit-learn** – for classical machine learning (Decision Tree Classifier).  
+- **spaCy** – for NLP tasks like Named Entity Recognition and Sentiment Analysis.  
+- **Jupyter Notebook / Google Colab** – for experimentation and visualization.  
+- **GitHub** – for version control and project submission.
+
+---
+
+## 🧪 Results Summary
+
+### **Iris Classifier**
+- Algorithm: Decision Tree Classifier  
+- Accuracy: ~97%  
+- Evaluation Metrics: Accuracy, Precision, Recall  
+
+### **MNIST CNN**
+- Model: Convolutional Neural Network  
+- Test Accuracy: >95%  
+- Output: Classification of handwritten digits (0–9)  
+
+### **NLP with spaCy**
+- Task: Named Entity Recognition and Rule-Based Sentiment Analysis  
+- Entities Extracted: Product Names, Brands  
+- Sentiment Output: Positive / Negative summary  
+
+---
+
+## ⚖️ Ethical Reflection Summary
+
+This project emphasizes **responsible AI use** — addressing bias, fairness, transparency, privacy, and human accountability.  
+See the full write-up: [Ethical_Reflection.md](./Ethical_Reflection.md)
+
+---
+
+## 🏁 Final Notes
+
+This project demonstrates the practical application of AI frameworks in **machine learning, deep learning, and NLP** — combined with ethical awareness.  
+It fulfills all parts of the *AI Tools Assignment* and serves as a foundation for future AI engineering projects.
+
+---
+
+### 📎 Submission URL
+
+🔗 **GitHub Repository:**  
+👉 [https://github.com/JasonChiagozie/AIToolsAssignment-JasonChiagozie](https://github.com/JasonChiagozie/AIToolsAssignment-JasonChiagozie)
+
+---
+
+> 💡 *“Small wins lead to big successes — test code incrementally and think ethically.”*
